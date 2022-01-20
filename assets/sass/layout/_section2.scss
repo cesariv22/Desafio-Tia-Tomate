@@ -1,0 +1,23 @@
+.organic {
+    background-color: $color-taupe-gray;
+    padding: 100px 150px 0 150px;
+    color: $color-snow;
+    font-family: $raleway;
+    
+    &__cluster {
+        width: 100%;
+    }
+    
+    &__title {
+        font-size: $font-size-l-medium;
+        font-weight: $raleway-bold;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    &__paragraph {
+        font-size: $font-size-medium;
+        padding: 30px 70px 50px;
+    }
+}
+

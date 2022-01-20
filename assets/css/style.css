@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #FFF;
+}
+.header__logo {
+  padding: 10px 100px;
+}
+.header__logo--page {
+  width: 200px;
+  height: auto;
+}
+
+.section-one {
+  background-color: #E56353;
+  width: 100%;
+  padding: 300px 0;
+}
+.section-one__paragraph {
+  color: #FFF;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+}
+.section-one__paragraph--bold {
+  font-weight: 700;
+}
+
+.organic {
+  background-color: #91918D;
+  padding: 100px 150px 0 150px;
+  color: #FAFAFA;
+  font-family: "Raleway", sans-serif;
+}
+.organic__cluster {
+  width: 100%;
+}
+.organic__title {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 30px;
+}
+.organic__paragraph {
+  font-size: 18px;
+  padding: 30px 70px 50px;
+}
+
+.cherry {
+  background-color: #FAFAFA;
+  padding: 100px 150px 0;
+  color: #686963;
+  font-family: "Raleway", sans-serif;
+}
+.cherry__image {
+  width: 100%;
+}
+.cherry__title {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 40px;
+}
+.cherry__paragraph {
+  font-size: 18px;
+  padding: 30px 70px 50px;
+}
+
+.section-about {
+  background-color: #E56353;
+  color: #FFF;
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding: 70px;
+  text-transform: uppercase;
+}
+
+.author {
+  background-color: #FAFAFA;
+  color: #686963;
+  font-family: "Raleway", sans-serif;
+}
+
+.author-owners__image {
+  width: 100%;
+  padding: 100px 450px 0;
+}
+.author-owners__title {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 40px;
+}
+.author-owners__paragraph {
+  font-size: 18px;
+  padding: 30px 275px 0;
+}
+
+.contact-section {
+  background-color: #E97F72;
+  color: #FFF;
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding: 60px 0 40px;
+  margin-top: 100px;
+}
+.contact-section__button {
+  background-color: #FFF;
+  color: #686963;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  border-radius: 340px;
+  -webkit-border-radius: 340px;
+  -moz-border-radius: 340px;
+  -ms-border-radius: 340px;
+  -o-border-radius: 340px;
+  width: 380px;
+  height: 70px;
+  margin-top: 30px;
+  border: none;
+}
+
+.footer-section {
+  background-color: #686963;
+  color: #FFF;
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding: 60px;
+}
+.footer-section__logo {
+  width: 200px;
+  height: auto;
+}
+
+/*# sourceMappingURL=style.css.map */

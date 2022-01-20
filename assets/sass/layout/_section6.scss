@@ -1,0 +1,27 @@
+.contact-section {
+    background-color: $color-salmon;
+    color: $color-white;
+    font-family: $raleway;
+    font-size: $font-size-large;
+    font-weight: $raleway-bold;
+    text-align: center;
+    padding: 60px 0 40px;
+    margin-top: 100px;
+
+    &__button {
+        background-color: $color-white;
+        color: $color-granite-gray;
+        font-size: 34px;
+        font-weight: $raleway-bold;
+        letter-spacing: 1px;
+        border-radius: 340px;
+        -webkit-border-radius: 340px;
+        -moz-border-radius: 340px;
+        -ms-border-radius: 340px;
+        -o-border-radius: 340px;
+        width:380px;
+        height: 70px;
+        margin-top: 30px;
+        border: none;
+    }
+}

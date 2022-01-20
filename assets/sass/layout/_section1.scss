@@ -1,0 +1,17 @@
+.section-one {
+    background-color: $color-jelly-bean;
+    width: 100%;
+    padding: 300px 0;
+
+    &__paragraph {
+        color: $color-white;
+        font-size: $font-size-large;
+        text-align: center;
+        font-family: $raleway;
+        font-weight: $raleway-extra-light;
+    }
+
+    &__paragraph--bold {
+        font-weight: $raleway-bold;
+    }
+}

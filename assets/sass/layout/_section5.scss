@@ -1,0 +1,25 @@
+.author {
+    background-color: $color-snow;
+    color: $color-granite-gray;
+    font-family: $raleway;
+}
+
+.author-owners {
+    
+    &__image {
+        width: 100%;
+        padding: 100px 450px 0;
+    }
+
+    &__title {
+        text-align: center;
+        padding-top: 30px;
+        font-size: $font-size-l-medium;
+    }
+
+    &__paragraph {
+        font-size: $font-size-medium;
+        padding: 30px 275px 0;
+    }
+}
+

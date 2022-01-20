@@ -1,0 +1,12 @@
+.header {
+    background-color: $color-white;
+    
+    &__logo {
+        padding: 10px 100px;
+    }
+
+    &__logo--page {
+        width: 200px;
+        height: auto;
+    }
+}

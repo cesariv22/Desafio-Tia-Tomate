@@ -1,0 +1,14 @@
+.footer-section {
+    background-color: $color-granite-gray;
+    color: $color-white;
+    font-family: $raleway;
+    font-size: $font-size-large;
+    font-weight: $raleway-bold;
+    text-align: center;
+    padding: 60px;
+
+    &__logo {
+        width: 200px;
+        height: auto;
+    }
+}
